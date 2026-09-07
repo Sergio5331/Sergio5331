@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Sergio5331/OctaStudio"><strong>OctaStudio</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Sergio5331/OctaStudio/releases/tag/v1.0.1-beta.1">Descargar la beta</a>
+  <a href="https://github.com/Sergio5331/OctaStudio/releases/tag/v1.1.0-beta.1">Descargar la beta</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/Sergio5331?tab=repositories">Mis repositorios</a>
 </p>
@@ -28,7 +28,7 @@ Uso este espacio para compartir avances, publicar versiones de prueba y recibir 
 
 > **En fase beta.** OctaStudio sigue en desarrollo y las pruebas en distintos equipos ayudan a detectar y corregir errores.
 
-[**Explorar OctaStudio →**](https://github.com/Sergio5331/OctaStudio) · [Descargar](https://github.com/Sergio5331/OctaStudio/releases/tag/v1.0.1-beta.1) · [Reportar un error](https://github.com/Sergio5331/OctaStudio/issues/new?template=error.yml)
+[**Explorar OctaStudio →**](https://github.com/Sergio5331/OctaStudio) · [Descargar](https://github.com/Sergio5331/OctaStudio/releases/tag/v1.1.0-beta.1) · [Reportar un error](https://github.com/Sergio5331/OctaStudio/issues/new?template=error.yml)
 
 ### Tecnologías del proyecto
 
