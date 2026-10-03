@@ -17,7 +17,7 @@
 
 Soy **ingeniero en Desarrollo y Gestión de Software** y este es el espacio de **OCTAESTUDIO**, mi estudio de desarrollo de software.
 
-Desarrollo herramientas para facilitar la edición de contenido y el trabajo con archivos multimedia. Aquí comparto mis proyectos, sus avances y versiones de prueba, además de proyectos de integración y análisis de datos.
+Desarrollo herramientas para facilitar la edición de contenido y el trabajo con archivos multimedia. Aquí comparto mis proyectos, sus avances y versiones disponibles, además de proyectos de integración y análisis de datos.
 
 ## Proyectos destacados
 
@@ -31,20 +31,20 @@ Una aplicación para **Windows 10/11 de 64 bits** que reúne edición de video, 
 - Ajuste de volumen por lotes con protección de picos.
 - Exportación de video y audio e instalador para Windows.
 
-[**Ver proyecto →**](https://github.com/Sergio5331/OctaStudio) · [Descargar beta 1.1.0](https://github.com/Sergio5331/OctaStudio/releases/tag/v1.1.0-beta.1) · [Reportar un error](https://github.com/Sergio5331/OctaStudio/issues)
+[**Ver proyecto →**](https://github.com/Sergio5331/OctaStudio) · [Descargas disponibles](https://github.com/Sergio5331/OctaStudio/releases) · [Reportar un error](https://github.com/Sergio5331/OctaStudio/issues)
 
 ### Universal Media Downloader · Descargas de video y audio
 
-Herramienta para **Windows de 64 bits** con descargas individuales, colas por lotes y listas de reproducción.
+Herramienta para **Windows de 64 bits**, versión **1.0.0**, con descargas individuales, colas por lotes y listas de reproducción. Su código fuente está disponible bajo **GPLv3**.
 
 - Análisis de enlaces y selección de calidad disponible.
 - Descargas por lotes y organización de playlists en carpetas.
 - Extracción de audio MP3 a 128, 192 o 320 kbps.
 - Opciones de portada y metadatos, y selección de carpeta de destino.
 
-[**Ver proyecto →**](https://github.com/Sergio5331/Universal-Media-Downloader) · [Descargar beta 1.0.0](https://github.com/Sergio5331/Universal-Media-Downloader/releases/tag/v1.0.0-beta.1) · [Reportar un error](https://github.com/Sergio5331/Universal-Media-Downloader/issues)
+[**Ver proyecto →**](https://github.com/Sergio5331/Universal-Media-Downloader) · [Descargar versión 1.0.0](https://github.com/Sergio5331/Universal-Media-Downloader/releases/tag/v1.0.0) · [Reportar un error](https://github.com/Sergio5331/Universal-Media-Downloader/issues)
 
-> **Aplicaciones en fase beta.** Ambas herramientas siguen en desarrollo. Los comentarios y reportes de errores ayudan a mejorar las próximas versiones.
+> Los comentarios y reportes de errores ayudan a mejorar las próximas versiones de mis herramientas.
 
 ### Data Warehouse · Rendimiento académico
 
@@ -62,7 +62,7 @@ Proyecto académico de integración de datos para analizar el rendimiento univer
 
 - Mejorar la experiencia de edición de OctaStudio.
 - Probar los instaladores y el funcionamiento de las aplicaciones en Windows.
-- Corregir errores y ampliar las herramientas a partir de los comentarios de quienes las prueban.
+- Corregir errores y ampliar las herramientas a partir de los comentarios de quienes las utilizan.
 
 ---
 
